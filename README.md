@@ -32,7 +32,7 @@
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
-💬 [Dreamhunter Blog](https://dreamhunter2333.com/)
+💬 [Blog](https://home-blog.funning.top/)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
