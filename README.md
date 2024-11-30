@@ -1,4 +1,4 @@
-### Hi I'm Robus
+gvf8ù### Hi I'm AIrobus
 
 
 
@@ -32,7 +32,7 @@
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
-💬 [Blog](https://home-blog.funning.top/)
+💬 [Blog](https://ai1oo.923828.xyz/)  
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
